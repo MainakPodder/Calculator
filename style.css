@@ -6,8 +6,7 @@
 }
 body{
     height: 100vh;
-    /* background: linear-gradient(135deg,#f9544c,#5a65ff); */
-    background-color: antiquewhite;
+    background: linear-gradient(135deg,#f9544c,#5a65ff);
 }
 .calculator{
     width: 400px;
